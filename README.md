@@ -31,5 +31,5 @@
 ## 📫 Let's Connect!
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://kh.linkedin.com/in/theng-sreynich-14aa3a218/)
-[![Gitlab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sreynichtheng547)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saing-sreynoeng-08253928b/)
+[![Gitlab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/saingsreynoeng95)
